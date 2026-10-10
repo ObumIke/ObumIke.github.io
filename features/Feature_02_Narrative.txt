@@ -1,5 +1,3 @@
-FEATURE #2 — LINKEDIN WRITE-UP
-UPDATED:
 From Network Availability to Operational Excellence
 Network availability is measured in percentages.
 Operational excellence is measured in the experience behind those numbers.
